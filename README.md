@@ -1,4 +1,4 @@
-# AI Virtual Mouse - Proton
+# AI Virtual Mouse
 
 Proton is a Windows desktop assistant that combines a browser-based chat window, voice commands, and webcam-based hand gestures. It can move and click the mouse, scroll, and adjust system volume and brightness.
 
