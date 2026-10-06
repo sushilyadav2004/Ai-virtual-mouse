@@ -1,0 +1,13 @@
+eel
+mediapipe
+numpy
+opencv-python
+PyAudio
+PyAutoGUI
+pycaw
+comtypes
+pyttsx3
+SpeechRecognition
+pynput
+screen-brightness-control
+wikipedia

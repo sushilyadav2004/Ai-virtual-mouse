@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+
+# Build and local environment output
+src/MyFirstApp/bin/
+src/MyFirstApp/obj/
+
+# Local archives and editor files
+*.zip
+.vscode/
