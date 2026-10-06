@@ -114,7 +114,7 @@ git init
 git add README.md .gitignore requirements.txt src
 git commit -m "Add Proton AI virtual mouse project"
 git branch -M main
-git remote add origin https://github.com/sushilyadav2004/new.git
+git remote add origin https://github.com/sushilyadav2004/ai-virtual-mouse.git
 git push -u origin main
 ```
 
